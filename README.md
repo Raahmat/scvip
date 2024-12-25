@@ -3,7 +3,7 @@
   
 
 ### INSTALL SCRIPT 
-<pre><code>appt update -y && apt install -y curl wget && wget -q https://raw.githubusercontent.com/raahmat/scvip/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
+<pre><code>apt update -y && apt install -y curl wget screen && wget -q https://raw.githubusercontent.com/raahmat/scvip/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh
 </code></pre>
 
 ### PERINTAH UPDATE 
